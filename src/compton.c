@@ -4722,7 +4722,7 @@ usage(int ret) {
     "\n"
     "--blur-method algorithm\n"
     "  Specify the algorithm for background blur. It is either one of:\n"
-    "    convolution (default), dual_kawase\n"
+    "    convolution (default), dual_kawase, pixelate\n"
     "\n"
     "--blur-strength level\n"
     "  Only valid for '--blur-method dual_kawase'!\n"
